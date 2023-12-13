@@ -1,0 +1,1 @@
+import{_ as a,m as t,n as e,Q as s}from"./chunks/framework.4100087b.js";const v=JSON.parse('{"title":"其他机制","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/misc.md","filePath":"zh-CN/misc.md"}'),n={name:"zh-CN/misc.md"},o=s("",17),l=[o];function r(i,p,c,h,k,d){return t(),e("div",null,l)}const m=a(n,[["render",r]]);export{v as __pageData,m as default};

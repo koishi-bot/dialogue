@@ -1,0 +1,1 @@
+import{_ as e,m as a,n as o,Q as i}from"./chunks/framework.4100087b.js";const f=JSON.parse('{"title":"扩展事件","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/events.md","filePath":"zh-CN/events.md"}'),t={name:"zh-CN/events.md"},r=i("",22),l=[r];function d(u,n,s,h,c,g){return a(),o("div",null,l)}const m=e(t,[["render",d]]);export{f as __pageData,m as default};
